@@ -5,7 +5,7 @@ Hi, I am Akshay. I enjoy building things that are useful, simple, and fun to int
 I first got into tech through a curiosity for how things work behind the scenes. That curiosity led me to explore automation, smart tools, and web platforms that blend design and logic.  
 <br />
 
-These days, I enjoy building clean user interfaces, exploring new ideas, and solving problems with code. I like working on projects that **challenge me** and help me grow as a developer.  
+These days, I enjoy building clean user interfaces, exploring new ideas, and solving problems with code. I like working on projects that challenge me and help me grow as a developer.  
 
 
 
