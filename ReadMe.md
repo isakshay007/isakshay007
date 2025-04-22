@@ -1,5 +1,12 @@
 #  About Me:
-I’m a Master’s student in Computer Science at Northeastern University, passionate about solving real-world problems through AI, machine learning, and full-stack development. At Lyzr AI, I deployed 25+ AI-powered chatbots for top-tier clients, launched 50+ generative AI tools, and authored 50+ technical blogs on cutting-edge applications. Some of my favorite projects include a Flask-based Food Donation System, a Java Image Processing App, and the cross-platform Tuteme App. Always eager to collaborate and innovate—reach out at adhikasavansuresh.a@northeastern.edu!
+Hi, I am Akshay. I enjoy building things that are useful, simple, and fun to interact with. I have worked on projects that involve AI, cloud systems, and full-stack development, and I like creating things that make a real difference.  
+<br />
+
+I first got into tech through a curiosity for how things work behind the scenes. That curiosity led me to explore automation, smart tools, and web platforms that blend design and logic.  
+<br />
+
+These days, I enjoy building clean user interfaces, exploring new ideas, and solving problems with code. I like working on projects that **challenge me** and help me grow as a developer.  
+
 
 
 
